@@ -1,22 +1,314 @@
-/*_______________________________________________________________________________________________________________________________________________________________________________________________________________________
-──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
-─██████████████──██████████──██████──────────██████████████──██████──────────██████──██████████████──██████──────────██████████████──██████──██████──██████████████──████████████████─── 
-─██░░░░░░░░░░██──██░░░░░░██──██░░██──────────██░░░░░░░░░░██──██░░██████████──██░░██──██░░░░░░░░░░██──██░░██──────────██░░░░░░░░░░██──██░░██──██░░██──██░░░░░░░░░░██──██░░░░░░░░░░░░██─── 
-─██░░██████████──████░░████──██░░██──────────██░░██████████──██░░░░░░░░░░██──██░░██──██████░░██████──██░░██──────────██░░██████░░██──██░░██──██░░██──██░░██████████──██░░████████░░██─── 
-─██░░██────────────██░░██────██░░██──────────██░░██──────────██░░██████░░██──██░░██──────██░░██──────██░░██──────────██░░██──██░░██──██░░██──██░░██──██░░██──────────██░░██────██░░██─── 
-─██░░██████████────██░░██────██░░██──────────██░░██████████──██░░██──██░░██──██░░██──────██░░██──────██░░██──────────██░░██──██░░██──██░░██──██░░██──██░░██████████──██░░████████░░██─── 
-─██░░░░░░░░░░██────██░░██────██░░██──────────██░░░░░░░░░░██──██░░██──██░░██──██░░██──────██░░██──────██░░██──────────██░░██──██░░██──██░░██──██░░██──██░░░░░░░░░░██──██░░░░░░░░░░░░██─── 
-─██████████░░██────██░░██────██░░██──────────██░░██████████──██░░██──██░░██──██░░██──────██░░██──────██░░██──────────██░░██──██░░██──██░░██──██░░██──██░░██████████──██░░██████░░████─── 
-─────────██░░██────██░░██────██░░██──────────██░░██──────────██░░██──██░░██████░░██──────██░░██──────██░░██──────────██░░██──██░░██──██░░░░██░░░░██──██░░██──────────██░░██──██░░██───── 
-─██████████░░██──████░░████──██░░██████████──██░░██████████──██░░██──██░░░░░░░░░░██──────██░░██──────██░░██████████──██░░██████░░██──████░░░░░░████──██░░██████████──██░░██──██░░██████─ 
-─██░░░░░░░░░░██──██░░░░░░██──██░░░░░░░░░░██──██░░░░░░░░░░██──██░░██──██████████░░██──────██░░██──────██░░░░░░░░░░██──██░░░░░░░░░░██────████░░████────██░░░░░░░░░░██──██░░██──██░░░░░░██─ 
-─██████████████──██████████──██████████████──██████████████──██████──────────██████──────██████──────██████████████──██████████████──────██████──────██████████████──██████──██████████─ 
-──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
-created by Silent_lover432 🕵
-contact me 923096287432 ♻️
-© Copy coder alert ⚠
-*/
-
-
-
-const _0x145b96=_0x2a79;function _0x421e(){const _0x49ccab=['duration','externalUrl','Get\x20a\x20random\x20ringtone\x20from\x20the\x20API.','sendMessage','405514vnQLzx','message','❌\x20Error\x20in\x20TikTok\x20stalk\x20command:','includes','To\x20download\x20Capcut\x20templates.','16137Juzrbl','\x0a🔒\x20*Private\x20Account:*\x20','name','like','link','571107cEvQzD','\x0a\x0a>\x20BY\x20SILENTLOVER432\x20♥️\x0a','.mp4','\x0a📛\x20*Nickname:*\x20','artistName','no_watermark','*•\x20TRACK\x20NUMBER*:\x20','\x20(@','781hTYCso','No\x20🌍','Search\x20for\x20Spotify\x20tracks\x20using\x20a\x20query.','tiktoks','\x0a🔗\x20*Bio\x20Link:*\x20','❌\x20An\x20error\x20occurred\x20while\x20searching\x20Spotify.\x20Please\x20try\x20again\x20later.','1980PRxuKq','❌\x20User\x20not\x20found.\x20Please\x20check\x20the\x20username\x20and\x20try\x20again.','\x0a╰━━❑\x0a\x0a>\x20*©\x20Pᴏᴡᴇʀᴇᴅ\x20ʙʏ\x20sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²\x20♡*','❌\x20Please\x20provide\x20a\x20valid\x20URL\x20or\x20query.','data','followingCount','uniqueId','Error\x20in\x20fetch\x20command:','random','floor','signature','react','*•\x20URL*:\x20https://www.tiktok.com/@','Search\x20for\x20TikTok\x20videos\x20using\x20a\x20query.','spsearch','Fetch\x20TikTok\x20user\x20profile\x20details.','node-fetch','find','\x0a\x0a🔗\x20*Profile\x20URL:*\x20https://www.tiktok.com/@','user','\x0a📏\x20*SIZE:*\x20','1280sDATTM','startsWith','2383352AGoEVP','toLocaleDateString','🔍\x20*Fetched\x20Data*:\x0a```','tiks','```','No\x20bio\x20available.','json','stats','verified','ringtones','test','get','\x0a\x0a>\x20©\x20BY\x20SILENTLOVER432','title','nickname','\x22*.','videoCount','dl_link','Your\x20Data\x20Request','🌸\x20What\x20do\x20you\x20want\x20to\x20search\x20on\x20TikTok?\x0a\x0a*Usage\x20Example:*\x0a.tiktoksearch\x20<query>','6dNqWql','capcut-dl','https://api.diioffc.web.id/api/download/capcut?url=','size','Error:','result','14032ApvWGV','author','🌸\x20*SILENT-SOBX-MD\x20TIKTOK\x20VIDEO\x20RESULT*:\x0a\x0a','\x0a*❐\x20SILENT-SOBX-MD\x20PINS\x20DOWNLOADER🚀*\x0a╭━━❐\x0a┇๏\x20*ABOUT*\x20-\x20','❎\x20Please\x20provide\x20a\x20TikTok\x20username.\x0a\x0a*Example:*\x20.tiktokstalk\x20mrbeast','download','🔎\x20Searching\x20Spotify\x20for:\x20*','audio/mpeg','❌\x20URL\x20must\x20start\x20with\x20http://\x20or\x20https://.','\x0a📝\x20*Bio:*\x20','\x0a✅\x20*Verified:*\x20','Yes\x20🔒','sort','region','tiktoksearch','key','heartCount','Fetch\x20data\x20from\x20a\x20provided\x20URL\x20or\x20API','error','4290aEhVDE','tools','Yes\x20✅','❌\x20An\x20error\x20occurred:\x0a','https://api.diioffc.web.id/api/search/tiktok?query=','play','avatarLarger','trim','toLocaleString','*•\x20ARTIST*:\x20','pinvd','⚠️\x20An\x20error\x20occurred\x20while\x20fetching\x20TikTok\x20profile\x20data.','1DTAtuQ','../command','*❌\x20Please\x20provide\x20a\x20valid\x20Capcut\x20link..🚀*','*_Sorry,\x20something\x20went\x20wrong\x20while\x20fetching\x20the\x20ringtone.\x20Please\x20try\x20again\x20later.🚀_*','spotifysrch','bioLink','owner','\x0a\x0a📊\x20*Statistics:*\x0a👥\x20*Followers:*\x20','ring','ttstalk','join','🎭\x20*SILENT-SOBX-MD\x20TIKTOK\x20PROFILE\x20STALKER*\x20🎭\x0a\x0a👤\x20*Username:*\x20@','❌\x20No\x20results\x20found\x20for\x20your\x20query.\x20Please\x20try\x20with\x20a\x20different\x20keyword.','slice','trackNumber','*•\x20TRACK\x20NAME*:\x20','https://www.dark-yasiya-api.site/download/ringtone?text=','../lib/functions','\x0a❤️\x20*Likes:*\x20','pinv','BK9','*•\x20URL*:\x20','*•\x20Author*:\x20','Please\x20provide\x20a\x20search\x20query!\x20Example:\x20.ringtone\x20Suna','status','.mp3','*•\x20Title*:\x20','length','❎\x20No\x20media\x20found.','*POWERD\x20BY\x20SILENTLOVER432*\x0a\x0a','url','\x0a👤\x20*Following:*\x20','spotifysearch','No\x20❌','createTime','*•\x20Plays*:\x20','pinsvdl','3307801eWdqxO','🌸\x20What\x20do\x20you\x20want\x20to\x20search\x20on\x20Spotify?\x0a\x0a*Usage\x20Example:*\x0a.spotifysearch\x20<query>','🎶\x20*SILENT-SOBX-MD\x20SPOTIFY\x20TRACK\x20RESULT..🚀*:\x0a\x0a','followerCount','❎\x20Failed\x20to\x20fetch\x20data\x20from\x20Pinterest.','media','\x0a📍\x20*Region:*\x20','http','❎\x20An\x20error\x20occurred\x20while\x20processing\x20your\x20request.'];_0x421e=function(){return _0x49ccab;};return _0x421e();}(function(_0x237e1d,_0x3aa902){const _0x5a6218=_0x2a79,_0x61e652=_0x237e1d();while(!![]){try{const _0x98e054=-parseInt(_0x5a6218(0x184))/0x1*(-parseInt(_0x5a6218(0x1b6))/0x2)+parseInt(_0x5a6218(0x1c0))/0x3+-parseInt(_0x5a6218(0x165))/0x4*(-parseInt(_0x5a6218(0x1e3))/0x5)+-parseInt(_0x5a6218(0x15f))/0x6*(-parseInt(_0x5a6218(0x1a9))/0x7)+-parseInt(_0x5a6218(0x1e5))/0x8+parseInt(_0x5a6218(0x1bb))/0x9*(-parseInt(_0x5a6218(0x178))/0xa)+-parseInt(_0x5a6218(0x1c8))/0xb*(parseInt(_0x5a6218(0x1ce))/0xc);if(_0x98e054===_0x3aa902)break;else _0x61e652['push'](_0x61e652['shift']());}catch(_0x3a9460){_0x61e652['push'](_0x61e652['shift']());}}}(_0x421e,0xa7356));const axios=require('axios'),{cmd}=require(_0x145b96(0x185)),fetch=require(_0x145b96(0x1de));function _0x2a79(_0x2940d1,_0x5f3b16){const _0x421e9f=_0x421e();return _0x2a79=function(_0x2a79e3,_0x93f635){_0x2a79e3=_0x2a79e3-0x157;let _0x32f77f=_0x421e9f[_0x2a79e3];return _0x32f77f;},_0x2a79(_0x2940d1,_0x5f3b16);}cmd({'pattern':'cpt','alias':['capcut',_0x145b96(0x160)],'desc':_0x145b96(0x1ba),'react':'🎥','category':_0x145b96(0x16a),'filename':__filename},async(_0x5cffdf,_0x5f58ad,_0x3d0486,{from:_0x1879d3,q:_0x44270a,reply:_0xf7648})=>{const _0x339aee=_0x145b96;try{if(!_0x44270a||!_0x44270a[_0x339aee(0x1e4)](_0x339aee(0x1b0)))return _0xf7648(_0x339aee(0x186));await _0x5cffdf[_0x339aee(0x1b5)](_0x1879d3,{'react':{'text':'⏳','key':_0x5f58ad[_0x339aee(0x174)]}});const _0x32ea2c=await axios[_0x339aee(0x1f0)](_0x339aee(0x161)+encodeURIComponent(_0x44270a)),_0x2d0123=_0x32ea2c[_0x339aee(0x1d2)];if(!_0x2d0123||_0x2d0123[_0x339aee(0x19c)]!==!![]||!_0x2d0123[_0x339aee(0x164)]||!_0x2d0123[_0x339aee(0x164)][_0x339aee(0x1a2)])return _0xf7648('*_⚠️\x20Failed\x20to\x20fetch\x20Capcut\x20content.\x20Please\x20check\x20the\x20link\x20and\x20try\x20again..🚀_*');await _0x5cffdf[_0x339aee(0x1b5)](_0x1879d3,{'video':{'url':_0x2d0123[_0x339aee(0x164)][_0x339aee(0x1a2)]},'mimetype':'video/mp4','caption':'📥\x20*_SILENT-SOBX-MD\x20CAPCUT\x20TEMPLATE\x20DOWNLOADEDER*\x0a🎥\x20*TITLE:*\x20'+_0x2d0123[_0x339aee(0x164)]['title']+_0x339aee(0x1e2)+_0x2d0123['result'][_0x339aee(0x162)]+_0x339aee(0x157)},{'quoted':_0x5f58ad});}catch(_0x30ee50){console[_0x339aee(0x177)](_0x339aee(0x163),_0x30ee50),_0xf7648('❌\x20An\x20error\x20occurred\x20while\x20processing\x20your\x20request.\x20Please\x20try\x20again.');}}),cmd({'pattern':'ringtone','alias':[_0x145b96(0x1ee),_0x145b96(0x18c)],'desc':_0x145b96(0x1b4),'react':'🎵','category':_0x145b96(0x16a),'filename':__filename},async(_0x26fcfa,_0x44e130,_0x537911,{from:_0x488032,reply:_0x35d18d,args:_0x4e674d})=>{const _0x4de954=_0x145b96;try{const _0x31f81f=_0x4e674d[_0x4de954(0x18e)]('\x20');if(!_0x31f81f)return _0x35d18d(_0x4de954(0x19b));const {data:_0x40d337}=await axios[_0x4de954(0x1f0)](_0x4de954(0x194)+encodeURIComponent(_0x31f81f));if(!_0x40d337[_0x4de954(0x19c)]||!_0x40d337[_0x4de954(0x164)]||_0x40d337[_0x4de954(0x164)]['length']===0x0)return _0x35d18d('*_No\x20ringtones\x20found\x20for\x20your\x20query.\x20Please\x20try\x20a\x20different\x20keyword..🚀_*');const _0x3064d3=_0x40d337[_0x4de954(0x164)][Math[_0x4de954(0x1d7)](Math[_0x4de954(0x1d6)]()*_0x40d337['result'][_0x4de954(0x19f)])];await _0x26fcfa[_0x4de954(0x1b5)](_0x488032,{'audio':{'url':_0x3064d3[_0x4de954(0x15c)]},'mimetype':_0x4de954(0x16c),'fileName':_0x3064d3['title']+_0x4de954(0x19d)},{'quoted':_0x537911});}catch(_0x5e1f55){console[_0x4de954(0x177)]('Error\x20in\x20ringtone\x20command:',_0x5e1f55),_0x35d18d(_0x4de954(0x187));}}),cmd({'pattern':'pinterestvideo','alias':[_0x145b96(0x197),_0x145b96(0x182),_0x145b96(0x1a8),'pinvdownload'],'desc':'Download\x20media\x20from\x20Pinterest','category':'download','filename':__filename},async(_0x3d4199,_0x9fd2ad,_0x47daca,{args:_0x3ce850,quoted:_0x569a89,from:_0x3e6d7b,reply:_0xeeb0e7})=>{const _0x2250ad=_0x145b96;try{if(_0x3ce850['length']<0x1)return _0xeeb0e7('❎\x20Please\x20provide\x20the\x20Pinterest\x20URL\x20to\x20download\x20from.');const _0x2c269a=_0x3ce850[0x0],_0x117be1=await axios[_0x2250ad(0x1f0)]('https://bk9.fun/download/pinterest?url='+encodeURIComponent(_0x2c269a));if(!_0x117be1[_0x2250ad(0x1d2)][_0x2250ad(0x19c)])return _0xeeb0e7(_0x2250ad(0x1ad));const _0x2f6847=_0x117be1[_0x2250ad(0x1d2)][_0x2250ad(0x198)],_0x56ce0e=_0x2250ad(0x168)+_0x117be1[_0x2250ad(0x1d2)][_0x2250ad(0x18a)]+_0x2250ad(0x1d0);if(_0x2f6847['length']>0x0){const _0x1baadf=_0x2f6847[_0x2250ad(0x1df)](_0x15dd21=>_0x15dd21[_0x2250ad(0x1a2)][_0x2250ad(0x1b9)](_0x2250ad(0x1c2)))?.[_0x2250ad(0x1a2)],_0xc14fa4=_0x2f6847[_0x2250ad(0x1df)](_0x2eb89e=>_0x2eb89e[_0x2250ad(0x1a2)]['includes']('.jpg'))?.['url'];if(_0x1baadf)await _0x3d4199[_0x2250ad(0x1b5)](_0x3e6d7b,{'video':{'url':_0x1baadf},'caption':_0x56ce0e},{'quoted':_0x9fd2ad});else _0xc14fa4?await _0x3d4199['sendMessage'](_0x3e6d7b,{'image':{'url':_0xc14fa4},'caption':_0x56ce0e},{'quoted':_0x9fd2ad}):_0xeeb0e7('❎\x20No\x20media\x20found.');}else _0xeeb0e7(_0x2250ad(0x1a0));}catch(_0x152847){console[_0x2250ad(0x177)](_0x152847),await _0x3d4199['sendMessage'](_0x3e6d7b,{'react':{'text':'❌','key':_0x9fd2ad[_0x2250ad(0x174)]}}),_0xeeb0e7(_0x2250ad(0x1b1));}}),cmd({'pattern':'tiktokstalk','alias':['tstalk',_0x145b96(0x18d)],'react':'📱','desc':_0x145b96(0x1dd),'category':'search','filename':__filename},async(_0x210634,_0x16149a,_0x5be7c2,{from:_0x624dc0,args:_0x4b8566,q:_0x732dbd,reply:_0x66da79})=>{const _0x23ade0=_0x145b96;try{if(!_0x732dbd)return _0x66da79(_0x23ade0(0x169));const _0x22e348='https://api.siputzx.my.id/api/stalk/tiktok?username='+encodeURIComponent(_0x732dbd),{data:_0x364c37}=await axios[_0x23ade0(0x1f0)](_0x22e348);if(!_0x364c37['status'])return _0x66da79(_0x23ade0(0x1cf));const _0xbeba63=_0x364c37[_0x23ade0(0x1d2)][_0x23ade0(0x1e1)],_0x2a3531=_0x364c37[_0x23ade0(0x1d2)][_0x23ade0(0x1ec)],_0x4f58b4=_0x23ade0(0x18f)+_0xbeba63[_0x23ade0(0x1d4)]+_0x23ade0(0x1c3)+_0xbeba63[_0x23ade0(0x159)]+_0x23ade0(0x16f)+(_0xbeba63[_0x23ade0(0x1ed)]?_0x23ade0(0x17a):_0x23ade0(0x1a5))+_0x23ade0(0x1af)+_0xbeba63[_0x23ade0(0x172)]+_0x23ade0(0x16e)+(_0xbeba63[_0x23ade0(0x1d8)]||_0x23ade0(0x1ea))+_0x23ade0(0x1cc)+(_0xbeba63[_0x23ade0(0x189)]?.[_0x23ade0(0x1bf)]||'No\x20link\x20available.')+_0x23ade0(0x18b)+_0x2a3531[_0x23ade0(0x1ac)][_0x23ade0(0x180)]()+_0x23ade0(0x1a3)+_0x2a3531[_0x23ade0(0x1d3)][_0x23ade0(0x180)]()+_0x23ade0(0x196)+_0x2a3531[_0x23ade0(0x175)][_0x23ade0(0x180)]()+'\x0a🎥\x20*Videos:*\x20'+_0x2a3531[_0x23ade0(0x15b)][_0x23ade0(0x180)]()+'\x0a\x0a📅\x20*Account\x20Created:*\x20'+new Date(_0xbeba63[_0x23ade0(0x1a6)]*0x3e8)[_0x23ade0(0x1e6)]()+_0x23ade0(0x1bc)+(_0xbeba63['privateAccount']?_0x23ade0(0x170):_0x23ade0(0x1c9))+_0x23ade0(0x1e0)+_0xbeba63[_0x23ade0(0x1d4)]+_0x23ade0(0x1c1),_0xcc19db={'image':{'url':_0xbeba63[_0x23ade0(0x17e)]},'caption':_0x4f58b4};await _0x210634[_0x23ade0(0x1b5)](_0x624dc0,_0xcc19db,{'quoted':_0x16149a});}catch(_0x1610f5){console['error'](_0x23ade0(0x1b8),_0x1610f5),_0x66da79(_0x23ade0(0x183));}}),cmd({'pattern':_0x145b96(0x1a4),'alias':[_0x145b96(0x188),_0x145b96(0x1dc)],'desc':_0x145b96(0x1ca),'react':'✅','category':_0x145b96(0x179),'filename':__filename},async(_0x265592,_0x226ffe,_0x41425a,{from:_0x48c01c,args:_0x5bba5f,reply:_0x19081f})=>{const _0x1b0d39=_0x145b96;if(!_0x5bba5f[0x0])return _0x19081f(_0x1b0d39(0x1aa));const _0x3c7f72=_0x5bba5f[_0x1b0d39(0x18e)]('\x20');await _0x41425a['react']('⌛');try{_0x19081f(_0x1b0d39(0x16b)+_0x3c7f72+'*');const _0x44a31d=await fetch('https://api.diioffc.web.id/api/search/spotify?query='+encodeURIComponent(_0x3c7f72)),_0x187834=await _0x44a31d[_0x1b0d39(0x1eb)]();if(!_0x187834||!_0x187834[_0x1b0d39(0x19c)]||!_0x187834[_0x1b0d39(0x164)]||_0x187834['result'][_0x1b0d39(0x19f)]===0x0)return await _0x41425a[_0x1b0d39(0x1d9)]('❌'),_0x19081f(_0x1b0d39(0x190));const _0x4043d5=_0x187834[_0x1b0d39(0x164)][_0x1b0d39(0x191)](0x0,0x7)[_0x1b0d39(0x171)](()=>Math[_0x1b0d39(0x1d6)]()-0.5);for(const _0x21f7cb of _0x4043d5){const _0x389267=_0x1b0d39(0x1ab)+(_0x1b0d39(0x193)+_0x21f7cb['trackName']+'\x0a')+(_0x1b0d39(0x181)+_0x21f7cb[_0x1b0d39(0x1c4)]+'\x0a')+(_0x1b0d39(0x1c6)+_0x21f7cb[_0x1b0d39(0x192)]+'\x0a')+(_0x1b0d39(0x199)+_0x21f7cb[_0x1b0d39(0x1b3)]+'\x0a\x0a')+_0x1b0d39(0x1a1);_0x19081f(_0x389267);}await _0x41425a[_0x1b0d39(0x1d9)]('✅');}catch(_0x3fcfc0){console['error']('Error\x20in\x20SpotifySearch\x20command:',_0x3fcfc0),await _0x41425a[_0x1b0d39(0x1d9)]('❌'),_0x19081f(_0x1b0d39(0x1cd));}});const {fetchJson}=require(_0x145b96(0x195));cmd({'pattern':'fetch','alias':[_0x145b96(0x1f0),'api'],'desc':_0x145b96(0x176),'category':'main','react':'🌐','filename':__filename},async(_0x46ba29,_0x3dc84c,_0xe84c35,{from:_0xd689a9,quoted:_0x39ccd9,body:_0x13ebd6,args:_0xccd29,reply:_0x563496})=>{const _0x54a306=_0x145b96;try{const _0x132e60=_0xccd29['join']('\x20')[_0x54a306(0x17f)]();if(!_0x132e60)return _0x563496(_0x54a306(0x1d1));if(!/^https?:\/\//[_0x54a306(0x1ef)](_0x132e60))return _0x563496(_0x54a306(0x16d));const _0x3e5455=await fetchJson(_0x132e60),_0xeafe40=JSON['stringify'](_0x3e5455,null,0x2);await _0x46ba29[_0x54a306(0x1b5)](_0xd689a9,{'text':_0x54a306(0x1e7)+_0xeafe40['slice'](0x0,0x800)+_0x54a306(0x1e9),'contextInfo':{'mentionedJid':[_0xe84c35['sender']],'forwardingScore':0x3e7,'isForwarded':!![],'forwardingSourceMessage':_0x54a306(0x15d)}},{'quoted':_0x3dc84c});}catch(_0x432a57){console[_0x54a306(0x177)](_0x54a306(0x1d5),_0x432a57),_0x563496(_0x54a306(0x17b)+_0x432a57[_0x54a306(0x1b7)]);}}),cmd({'pattern':_0x145b96(0x173),'alias':[_0x145b96(0x1cb),_0x145b96(0x1e8)],'desc':_0x145b96(0x1db),'react':'✅','category':_0x145b96(0x179),'filename':__filename},async(_0x4543f2,_0x474407,_0x2ace9f,{from:_0xe2b73b,args:_0x37b2cf,reply:_0x24085d})=>{const _0x526d16=_0x145b96;if(!_0x37b2cf[0x0])return _0x24085d(_0x526d16(0x15e));const _0x4d45e1=_0x37b2cf[_0x526d16(0x18e)]('\x20');await _0x2ace9f[_0x526d16(0x1d9)]('⌛');try{_0x24085d('🔎\x20Searching\x20TikTok\x20for:\x20*'+_0x4d45e1+'*');const _0x37f442=await fetch(_0x526d16(0x17c)+encodeURIComponent(_0x4d45e1)),_0x285f73=await _0x37f442['json']();if(!_0x285f73||!_0x285f73[_0x526d16(0x19c)]||!_0x285f73['result']||_0x285f73['result'][_0x526d16(0x19f)]===0x0)return await _0x2ace9f[_0x526d16(0x1d9)]('❌'),_0x24085d(_0x526d16(0x190));const _0x162b03=_0x285f73[_0x526d16(0x164)][_0x526d16(0x191)](0x0,0x7)[_0x526d16(0x171)](()=>Math[_0x526d16(0x1d6)]()-0.5);for(const _0x3bb0e6 of _0x162b03){const _0x3c6161=_0x526d16(0x167)+(_0x526d16(0x19e)+_0x3bb0e6[_0x526d16(0x158)]+'\x0a')+(_0x526d16(0x19a)+(_0x3bb0e6[_0x526d16(0x166)][_0x526d16(0x1bd)]||'Unknown')+_0x526d16(0x1c7)+_0x3bb0e6['author']['username']+')\x0a')+('*•\x20Duration*:\x20'+_0x3bb0e6[_0x526d16(0x1b2)]+'s\x0a')+(_0x526d16(0x1a7)+_0x3bb0e6[_0x526d16(0x1ec)][_0x526d16(0x17d)]+'\x0a')+('*•\x20Likes*:\x20'+_0x3bb0e6[_0x526d16(0x1ec)][_0x526d16(0x1be)]+'\x0a')+(_0x526d16(0x1da)+_0x3bb0e6[_0x526d16(0x166)]['username']+'/video/'+_0x3bb0e6['video_id']+'\x0a\x0a')+'*POWERD\x20BY\x20SILENTLOVER432*\x0a\x0a';_0x3bb0e6[_0x526d16(0x1ae)][_0x526d16(0x1c5)]?await _0x4543f2[_0x526d16(0x1b5)](_0xe2b73b,{'video':{'url':_0x3bb0e6[_0x526d16(0x1ae)]['no_watermark']},'caption':_0x3c6161},{'quoted':_0x474407}):_0x24085d('❌\x20Failed\x20to\x20retrieve\x20video\x20for\x20*\x22'+_0x3bb0e6[_0x526d16(0x158)]+_0x526d16(0x15a));}await _0x2ace9f[_0x526d16(0x1d9)]('✅');}catch(_0x281fb6){console[_0x526d16(0x177)]('Error\x20in\x20TikTokSearch\x20command:',_0x281fb6),await _0x2ace9f[_0x526d16(0x1d9)]('❌'),_0x24085d('❌\x20An\x20error\x20occurred\x20while\x20searching\x20TikTok.\x20Please\x20try\x20again\x20later.');}});
+const axios = require('axios');
+const {
+  cmd
+} = require("../command");
+const fetch = require("node-fetch");
+cmd({
+  'pattern': 'cpt',
+  'alias': ['capcut', "capcut-dl"],
+  'desc': "To download Capcut templates.",
+  'react': '🎥',
+  'category': "download",
+  'filename': __filename
+}, async (_0x5cffdf, _0x5f58ad, _0x3d0486, {
+  from: _0x1879d3,
+  q: _0x44270a,
+  reply: _0xf7648
+}) => {
+  try {
+    if (!_0x44270a || !_0x44270a.startsWith("http")) {
+      return _0xf7648("*❌ Please provide a valid Capcut link..🚀*");
+    }
+    await _0x5cffdf.sendMessage(_0x1879d3, {
+      'react': {
+        'text': '⏳',
+        'key': _0x5f58ad.key
+      }
+    });
+    const _0x32ea2c = await axios.get("https://api.diioffc.web.id/api/download/capcut?url=" + encodeURIComponent(_0x44270a));
+    const _0x2d0123 = _0x32ea2c.data;
+    if (!_0x2d0123 || _0x2d0123.status !== true || !_0x2d0123.result || !_0x2d0123.result.url) {
+      return _0xf7648("*_⚠️ Failed to fetch Capcut content. Please check the link and try again..🚀_*");
+    }
+    await _0x5cffdf.sendMessage(_0x1879d3, {
+      'video': {
+        'url': _0x2d0123.result.url
+      },
+      'mimetype': 'video/mp4',
+      'caption': "📥 *_SILENT-SOBX-MD CAPCUT TEMPLATE DOWNLOADEDER*\n🎥 *TITLE:* " + _0x2d0123.result.title + "\n📏 *SIZE:* " + _0x2d0123.result.size + "\n\n> © BY SILENTLOVER432"
+    }, {
+      'quoted': _0x5f58ad
+    });
+  } catch (_0x30ee50) {
+    console.error("Error:", _0x30ee50);
+    _0xf7648("❌ An error occurred while processing your request. Please try again.");
+  }
+});
+cmd({
+  'pattern': 'ringtone',
+  'alias': ["ringtones", "ring"],
+  'desc': "Get a random ringtone from the API.",
+  'react': '🎵',
+  'category': "download",
+  'filename': __filename
+}, async (_0x26fcfa, _0x44e130, _0x537911, {
+  from: _0x488032,
+  reply: _0x35d18d,
+  args: _0x4e674d
+}) => {
+  try {
+    const _0x31f81f = _0x4e674d.join(" ");
+    if (!_0x31f81f) {
+      return _0x35d18d("Please provide a search query! Example: .ringtone Suna");
+    }
+    const {
+      data: _0x40d337
+    } = await axios.get("https://www.dark-yasiya-api.site/download/ringtone?text=" + encodeURIComponent(_0x31f81f));
+    if (!_0x40d337.status || !_0x40d337.result || _0x40d337.result.length === 0x0) {
+      return _0x35d18d("*_No ringtones found for your query. Please try a different keyword..🚀_*");
+    }
+    const _0x3064d3 = _0x40d337.result[Math.floor(Math.random() * _0x40d337.result.length)];
+    await _0x26fcfa.sendMessage(_0x488032, {
+      'audio': {
+        'url': _0x3064d3.dl_link
+      },
+      'mimetype': "audio/mpeg",
+      'fileName': _0x3064d3.title + ".mp3"
+    }, {
+      'quoted': _0x537911
+    });
+  } catch (_0x5e1f55) {
+    console.error("Error in ringtone command:", _0x5e1f55);
+    _0x35d18d("*_Sorry, something went wrong while fetching the ringtone. Please try again later.🚀_*");
+  }
+});
+cmd({
+  'pattern': 'pinterestvideo',
+  'alias': ["pinv", "pinvd", "pinsvdl", 'pinvdownload'],
+  'desc': "Download media from Pinterest",
+  'category': 'download',
+  'filename': __filename
+}, async (_0x3d4199, _0x9fd2ad, _0x47daca, {
+  args: _0x3ce850,
+  quoted: _0x569a89,
+  from: _0x3e6d7b,
+  reply: _0xeeb0e7
+}) => {
+  try {
+    if (_0x3ce850.length < 0x1) {
+      return _0xeeb0e7("❎ Please provide the Pinterest URL to download from.");
+    }
+    const _0x2c269a = _0x3ce850[0x0];
+    const _0x117be1 = await axios.get('https://bk9.fun/download/pinterest?url=' + encodeURIComponent(_0x2c269a));
+    if (!_0x117be1.data.status) {
+      return _0xeeb0e7("❎ Failed to fetch data from Pinterest.");
+    }
+    const _0x2f6847 = _0x117be1.data.BK9;
+    const _0x56ce0e = "\n*❐ SILENT-SOBX-MD PINS DOWNLOADER🚀*\n╭━━❐\n┇๏ *ABOUT* - " + _0x117be1.data.owner + "\n╰━━❑\n\n> *© Pᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³² ♡*";
+    if (_0x2f6847.length > 0x0) {
+      const _0x1baadf = _0x2f6847.find(_0x15dd21 => _0x15dd21.url.includes(".mp4"))?.["url"];
+      const _0xc14fa4 = _0x2f6847.find(_0x2eb89e => _0x2eb89e.url.includes('.jpg'))?.['url'];
+      if (_0x1baadf) {
+        await _0x3d4199.sendMessage(_0x3e6d7b, {
+          'video': {
+            'url': _0x1baadf
+          },
+          'caption': _0x56ce0e
+        }, {
+          'quoted': _0x9fd2ad
+        });
+      } else if (_0xc14fa4) {
+        await _0x3d4199.sendMessage(_0x3e6d7b, {
+          'image': {
+            'url': _0xc14fa4
+          },
+          'caption': _0x56ce0e
+        }, {
+          'quoted': _0x9fd2ad
+        });
+      } else {
+        _0xeeb0e7("❎ No media found.");
+      }
+    } else {
+      _0xeeb0e7("❎ No media found.");
+    }
+  } catch (_0x152847) {
+    console.error(_0x152847);
+    await _0x3d4199.sendMessage(_0x3e6d7b, {
+      'react': {
+        'text': '❌',
+        'key': _0x9fd2ad.key
+      }
+    });
+    _0xeeb0e7("❎ An error occurred while processing your request.");
+  }
+});
+cmd({
+  'pattern': 'tiktokstalk',
+  'alias': ['tstalk', "ttstalk"],
+  'react': '📱',
+  'desc': "Fetch TikTok user profile details.",
+  'category': 'search',
+  'filename': __filename
+}, async (_0x210634, _0x16149a, _0x5be7c2, {
+  from: _0x624dc0,
+  args: _0x4b8566,
+  q: _0x732dbd,
+  reply: _0x66da79
+}) => {
+  try {
+    if (!_0x732dbd) {
+      return _0x66da79("❎ Please provide a TikTok username.\n\n*Example:* .tiktokstalk mrbeast");
+    }
+    const _0x22e348 = 'https://api.siputzx.my.id/api/stalk/tiktok?username=' + encodeURIComponent(_0x732dbd);
+    const {
+      data: _0x364c37
+    } = await axios.get(_0x22e348);
+    if (!_0x364c37.status) {
+      return _0x66da79("❌ User not found. Please check the username and try again.");
+    }
+    const _0xbeba63 = _0x364c37.data.user;
+    const _0x2a3531 = _0x364c37.data.stats;
+    const _0x4f58b4 = "🎭 *SILENT-SOBX-MD TIKTOK PROFILE STALKER* 🎭\n\n👤 *Username:* @" + _0xbeba63.uniqueId + "\n📛 *Nickname:* " + _0xbeba63.nickname + "\n✅ *Verified:* " + (_0xbeba63.verified ? "Yes ✅" : "No ❌") + "\n📍 *Region:* " + _0xbeba63.region + "\n📝 *Bio:* " + (_0xbeba63.signature || "No bio available.") + "\n🔗 *Bio Link:* " + (_0xbeba63.bioLink?.["link"] || "No link available.") + "\n\n📊 *Statistics:*\n👥 *Followers:* " + _0x2a3531.followerCount.toLocaleString() + "\n👤 *Following:* " + _0x2a3531.followingCount.toLocaleString() + "\n❤️ *Likes:* " + _0x2a3531.heartCount.toLocaleString() + "\n🎥 *Videos:* " + _0x2a3531.videoCount.toLocaleString() + "\n\n📅 *Account Created:* " + new Date(_0xbeba63.createTime * 0x3e8).toLocaleDateString() + "\n🔒 *Private Account:* " + (_0xbeba63.privateAccount ? "Yes 🔒" : "No 🌍") + "\n\n🔗 *Profile URL:* https://www.tiktok.com/@" + _0xbeba63.uniqueId + "\n\n> BY SILENTLOVER432 ♥️\n";
+    const _0xcc19db = {
+      'image': {
+        'url': _0xbeba63.avatarLarger
+      },
+      'caption': _0x4f58b4
+    };
+    await _0x210634.sendMessage(_0x624dc0, _0xcc19db, {
+      'quoted': _0x16149a
+    });
+  } catch (_0x1610f5) {
+    console.error("❌ Error in TikTok stalk command:", _0x1610f5);
+    _0x66da79("⚠️ An error occurred while fetching TikTok profile data.");
+  }
+});
+cmd({
+  'pattern': "spotifysearch",
+  'alias': ["spotifysrch", "spsearch"],
+  'desc': "Search for Spotify tracks using a query.",
+  'react': '✅',
+  'category': "tools",
+  'filename': __filename
+}, async (_0x265592, _0x226ffe, _0x41425a, {
+  from: _0x48c01c,
+  args: _0x5bba5f,
+  reply: _0x19081f
+}) => {
+  if (!_0x5bba5f[0x0]) {
+    return _0x19081f("🌸 What do you want to search on Spotify?\n\n*Usage Example:*\n.spotifysearch <query>");
+  }
+  const _0x3c7f72 = _0x5bba5f.join(" ");
+  await _0x41425a.react('⌛');
+  try {
+    _0x19081f("🔎 Searching Spotify for: *" + _0x3c7f72 + '*');
+    const _0x44a31d = await fetch('https://api.diioffc.web.id/api/search/spotify?query=' + encodeURIComponent(_0x3c7f72));
+    const _0x187834 = await _0x44a31d.json();
+    if (!_0x187834 || !_0x187834.status || !_0x187834.result || _0x187834.result.length === 0x0) {
+      await _0x41425a.react('❌');
+      return _0x19081f("❌ No results found for your query. Please try with a different keyword.");
+    }
+    const _0x4043d5 = _0x187834.result.slice(0x0, 0x7).sort(() => Math.random() - 0.5);
+    for (const _0x21f7cb of _0x4043d5) {
+      const _0x389267 = "🎶 *SILENT-SOBX-MD SPOTIFY TRACK RESULT..🚀*:\n\n" + ("*• TRACK NAME*: " + _0x21f7cb.trackName + "\n") + ("*• ARTIST*: " + _0x21f7cb.artistName + "\n") + ("*• TRACK NUMBER*: " + _0x21f7cb.trackNumber + "\n") + ("*• URL*: " + _0x21f7cb.externalUrl + "\n\n") + "*POWERD BY SILENTLOVER432*\n\n";
+      _0x19081f(_0x389267);
+    }
+    await _0x41425a.react('✅');
+  } catch (_0x3fcfc0) {
+    console.error("Error in SpotifySearch command:", _0x3fcfc0);
+    await _0x41425a.react('❌');
+    _0x19081f("❌ An error occurred while searching Spotify. Please try again later.");
+  }
+});
+const {
+  fetchJson
+} = require("../lib/functions");
+cmd({
+  'pattern': 'fetch',
+  'alias': ["get", 'api'],
+  'desc': "Fetch data from a provided URL or API",
+  'category': 'main',
+  'react': '🌐',
+  'filename': __filename
+}, async (_0x46ba29, _0x3dc84c, _0xe84c35, {
+  from: _0xd689a9,
+  quoted: _0x39ccd9,
+  body: _0x13ebd6,
+  args: _0xccd29,
+  reply: _0x563496
+}) => {
+  try {
+    const _0x132e60 = _0xccd29.join(" ").trim();
+    if (!_0x132e60) {
+      return _0x563496("❌ Please provide a valid URL or query.");
+    }
+    if (!/^https?:\/\//.test(_0x132e60)) {
+      return _0x563496("❌ URL must start with http:// or https://.");
+    }
+    const _0x3e5455 = await fetchJson(_0x132e60);
+    const _0xeafe40 = JSON.stringify(_0x3e5455, null, 0x2);
+    await _0x46ba29.sendMessage(_0xd689a9, {
+      'text': "🔍 *Fetched Data*:\n```" + _0xeafe40.slice(0x0, 0x800) + "```",
+      'contextInfo': {
+        'mentionedJid': [_0xe84c35.sender],
+        'forwardingScore': 0x3e7,
+        'isForwarded': true,
+        'forwardingSourceMessage': "Your Data Request"
+      }
+    }, {
+      'quoted': _0x3dc84c
+    });
+  } catch (_0x432a57) {
+    console.error("Error in fetch command:", _0x432a57);
+    _0x563496("❌ An error occurred:\n" + _0x432a57.message);
+  }
+});
+cmd({
+  'pattern': "tiktoksearch",
+  'alias': ["tiktoks", "tiks"],
+  'desc': "Search for TikTok videos using a query.",
+  'react': '✅',
+  'category': "tools",
+  'filename': __filename
+}, async (_0x4543f2, _0x474407, _0x2ace9f, {
+  from: _0xe2b73b,
+  args: _0x37b2cf,
+  reply: _0x24085d
+}) => {
+  if (!_0x37b2cf[0x0]) {
+    return _0x24085d("🌸 What do you want to search on TikTok?\n\n*Usage Example:*\n.tiktoksearch <query>");
+  }
+  const _0x4d45e1 = _0x37b2cf.join(" ");
+  await _0x2ace9f.react('⌛');
+  try {
+    _0x24085d("🔎 Searching TikTok for: *" + _0x4d45e1 + '*');
+    const _0x37f442 = await fetch("https://api.diioffc.web.id/api/search/tiktok?query=" + encodeURIComponent(_0x4d45e1));
+    const _0x285f73 = await _0x37f442.json();
+    if (!_0x285f73 || !_0x285f73.status || !_0x285f73.result || _0x285f73.result.length === 0x0) {
+      await _0x2ace9f.react('❌');
+      return _0x24085d("❌ No results found for your query. Please try with a different keyword.");
+    }
+    const _0x162b03 = _0x285f73.result.slice(0x0, 0x7).sort(() => Math.random() - 0.5);
+    for (const _0x3bb0e6 of _0x162b03) {
+      const _0x3c6161 = "🌸 *SILENT-SOBX-MD TIKTOK VIDEO RESULT*:\n\n" + ("*• Title*: " + _0x3bb0e6.title + "\n") + ("*• Author*: " + (_0x3bb0e6.author.name || 'Unknown') + " (@" + _0x3bb0e6.author.username + ")\n") + ("*• Duration*: " + _0x3bb0e6.duration + "s\n") + ("*• Plays*: " + _0x3bb0e6.stats.play + "\n") + ("*• Likes*: " + _0x3bb0e6.stats.like + "\n") + ("*• URL*: https://www.tiktok.com/@" + _0x3bb0e6.author.username + '/video/' + _0x3bb0e6.video_id + "\n\n") + "*POWERD BY SILENTLOVER432*\n\n";
+      if (_0x3bb0e6.media.no_watermark) {
+        await _0x4543f2.sendMessage(_0xe2b73b, {
+          'video': {
+            'url': _0x3bb0e6.media.no_watermark
+          },
+          'caption': _0x3c6161
+        }, {
+          'quoted': _0x474407
+        });
+      } else {
+        _0x24085d("❌ Failed to retrieve video for *\"" + _0x3bb0e6.title + "\"*.");
+      }
+    }
+    await _0x2ace9f.react('✅');
+  } catch (_0x281fb6) {
+    console.error("Error in TikTokSearch command:", _0x281fb6);
+    await _0x2ace9f.react('❌');
+    _0x24085d("❌ An error occurred while searching TikTok. Please try again later.");
+  }
+});
